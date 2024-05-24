@@ -10,4 +10,4 @@ Class 0- the stock price stayed the same or decreased.
 About the approach.
 
 Used TF-IDF and Bag of Words for extracting featues from the headlines.
-Used Random Forest Classifier, Multinational Naive Bayes and Passive Aggressive Classifier for analysis.
+Used Logistic Regression for analysis.
